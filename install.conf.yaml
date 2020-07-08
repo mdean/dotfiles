@@ -5,6 +5,7 @@
 - clean: ['~']
 
 - link:
+    ~/.zsh-antigen: antigen
     ~/.antigenrc: antigenrc
     ~/.gvimrc: gvimrc
     ~/.vim: vim
